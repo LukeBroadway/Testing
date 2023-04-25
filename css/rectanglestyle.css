@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(116, 76, 76);
+  display: flex;
+}
+div{
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  display: inline-block;
+  border: black double 20px;
+  border-radius: 20px;
+  padding: 20px;
+  line-height: 1.5;
+}
+
+#first{
+  background-color: rgb(96, 96, 240);
+  color: rgb(236, 81, 81);
+}
+#second{
+  background-color: rgb(236, 81, 81);
+  color: rgb(96, 96, 240);
+}
+#third{
+  background-color: rgb(145, 231, 145);
+  color: rgb(231, 231, 128)
+}
+#fourth{
+  background-color: rgb(231, 231, 128);
+  color: rgb(145, 231, 145);
+}

@@ -1,0 +1,38 @@
+html,body{
+  font-size: 30px;
+  color: rgb(167, 255, 239);
+}
+/*
+table, th, td {
+  border: 2px solid #000000;
+  border-collapse: collapse;
+  padding: 20px;
+  line-height: 25%;
+}
+tr.head{
+  background-color: #666b6b;
+}
+tr.body{
+  background-color: #bb8c8c;
+}
+*/
+table, th, td {
+  border: 2px solid #ffffff;
+  border-collapse: collapse;
+  padding: 20px;
+  line-height: 25%;
+}
+table.eg1 tr.head{
+  background-color: rgb(8, 108, 165);
+}
+table tr:nth-child(even){
+  background-color: rgb(120, 174, 206);
+}
+table tr:nth-child(odd){
+  background-color: rgb(81, 89, 94);
+}
+table tr:hover{
+  background-color: rgb(230, 247, 134);
+}
+
+

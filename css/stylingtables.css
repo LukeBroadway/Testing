@@ -1,0 +1,25 @@
+table, th, td
+{
+  border: 1px solid black;
+  border-collapse: seperate;
+  padding: 10px;
+  border-spacing: 3px;
+}
+
+th.eg1
+{
+  width: 25%;
+}
+
+th.eg2
+{
+  height: 70px;
+}
+
+table.eg3
+{
+  width: 100%;
+}
+table.eg11, th.eg11, td.eg11 { border: 1px solid black; }
+
+table.eg22, th.eg22, td.eg22 { border-bottom: 1px solid black; }

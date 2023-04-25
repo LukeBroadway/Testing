@@ -1,0 +1,49 @@
+body, html{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif
+}
+h1{
+  font-size: 30px;
+  background-color: rgb(16, 63, 16);
+  color: white;
+  text-align: center;
+  padding: 3px;
+}
+nav{
+  list-style-type: square;
+  background-color: rgb(211, 255, 255);
+  width: 150px;
+  padding: 5px;
+}
+h2{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+img{
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid rgb(87, 102, 236);
+  padding: 10px;
+}
+#Soup{
+  background-color: rgb(253, 121, 121);
+  margin: 10px;
+}
+#Meatloaf{
+  background-color: rgb(75, 57, 57);
+  margin: 10px;
+}
+#Pizza{
+  background-color: rgb(194, 219, 161);
+  margin: 10px;
+}
+article{
+  padding: 10px;
+}
+article p,h3,ol,ul{
+  text-align: left;
+  margin-left: 20px;
+}
